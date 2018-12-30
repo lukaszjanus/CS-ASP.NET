@@ -1,0 +1,10 @@
+C:\Users\Łukasz\source\repos\Adler32\Adler32\obj\Debug\Adler32.Form1.resources
+C:\Users\Łukasz\source\repos\Adler32\Adler32\obj\Debug\Adler32.Properties.Resources.resources
+C:\Users\Łukasz\source\repos\Adler32\Adler32\obj\Debug\Adler32.csproj.GenerateResource.cache
+C:\Users\Łukasz\source\repos\Adler32\Adler32\obj\Debug\Adler32.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\Adler32\Adler32\bin\Debug\Adler32.exe.config
+C:\Users\Łukasz\source\repos\Adler32\Adler32\bin\Debug\Adler32.exe
+C:\Users\Łukasz\source\repos\Adler32\Adler32\bin\Debug\Adler32.pdb
+C:\Users\Łukasz\source\repos\Adler32\Adler32\obj\Debug\Adler32.exe
+C:\Users\Łukasz\source\repos\Adler32\Adler32\obj\Debug\Adler32.pdb
+C:\Users\Łukasz\source\repos\Adler32\Adler32\obj\Debug\Adler32.csprojAssemblyReference.cache
